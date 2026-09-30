@@ -1,0 +1,13 @@
+pandas>=2.0
+numpy>=1.24
+scipy>=1.10
+statsmodels>=0.14
+matplotlib>=3.7
+seaborn>=0.12
+tabulate>=0.9
+tqdm>=4.65
+requests>=2.31
+python-dotenv>=1.0
+openai>=1.30
+rapidfuzz>=3.0
+jupyter>=1.0

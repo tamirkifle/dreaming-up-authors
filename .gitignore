@@ -1,0 +1,23 @@
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Generated data and results (reproduced by the scripts)
+data/
+results/
+*.csv
+!01_data_collection/paper_ids_*.csv
+*.jsonl
+*.ndjson
+*.zip
+*.pdf
+*.png
+
+# Python / Jupyter / OS
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+.idea/
+.vscode/
